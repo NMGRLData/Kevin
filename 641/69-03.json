@@ -1,0 +1,73 @@
+{
+    "aliquot": 3, 
+    "analysis_type": "unknown", 
+    "collection_version": "0.1:0.1", 
+    "comment": "A:6 glass", 
+    "commit": "cb5dc34ee1a9d8c39ad201974e9bfab138bb2ca5", 
+    "conditionals": null, 
+    "detectors": {
+        "AX": {
+            "deflection": 165.0, 
+            "gain": 0
+        }, 
+        "CDD": {
+            "deflection": 10.0, 
+            "gain": 0
+        }, 
+        "H1": {
+            "deflection": 0.0, 
+            "gain": 0
+        }, 
+        "H2": {
+            "deflection": 0.0, 
+            "gain": 0
+        }, 
+        "L1": {
+            "deflection": 320.0, 
+            "gain": 0
+        }, 
+        "L2": {
+            "deflection": 725.0, 
+            "gain": 0
+        }
+    }, 
+    "extraction": "jan_co2.py", 
+    "identifier": "64169", 
+    "increment": null, 
+    "intensity_scalar": 0.0, 
+    "irradiation": "NM-283", 
+    "irradiation_level": "A", 
+    "irradiation_position": 6, 
+    "isotopes": {
+        "Ar36": {
+            "detector": "CDD"
+        }, 
+        "Ar37": {
+            "detector": "L2"
+        }, 
+        "Ar38": {
+            "detector": "L1"
+        }, 
+        "Ar39": {
+            "detector": "AX"
+        }, 
+        "Ar40": {
+            "detector": "H1"
+        }, 
+        "Ar41": {
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "Jan", 
+    "material": "Sanidine", 
+    "measurement": "jan_unknown400_120.py", 
+    "project": "Kevin", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "Kevin", 
+    "sample": "Og-9 glass", 
+    "spec_sha": "7a53a104ce01382abf01c738e0410fda37641fac", 
+    "timestamp": "2016-05-24T19:31:34.875066", 
+    "tripped_conditional": null, 
+    "username": "", 
+    "uuid": "6b1577ee-6e59-4973-a168-429b24a710e9"
+}
